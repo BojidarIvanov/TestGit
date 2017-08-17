@@ -1,1 +1,2 @@
 My first test for git
+Now second commit
